@@ -1,4 +1,4 @@
-package com.vega.firebase.fcm;
+package com.fa.firebase.fcm;
 
 import android.util.Log;
 

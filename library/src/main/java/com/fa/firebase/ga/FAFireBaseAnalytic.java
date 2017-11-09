@@ -1,4 +1,4 @@
-package com.vega.firebase.ga;
+package com.fa.firebase.ga;
 
 import android.content.Context;
 import android.os.Bundle;

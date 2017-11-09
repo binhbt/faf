@@ -1,4 +1,4 @@
-package com.vega.firebase.fcm;
+package com.fa.firebase.fcm;
 
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
